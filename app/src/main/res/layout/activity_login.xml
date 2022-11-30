@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".view.LoginActivity">
+
+    <RelativeLayout
+        android:id="@+id/layoutTop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="25dp">
+
+        <ImageView
+            android:id="@+id/logoWarungTepat"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/ic_warung_tepat" />
+
+        <TextView
+            android:id="@+id/textTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/logoWarungTepat"
+            android:text="Selamat Datang"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textSubtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textTitle"
+            android:text="Di Warung Tepat"
+            android:textColor="@color/black"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/label_nomor_telepon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textSubtitle"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="5dp"
+            android:text="Masukan nomor handphone anda" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/layout_input_nomortelp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/label_nomor_telepon"
+            android:layout_marginBottom="20dp"
+            app:boxStrokeWidth="0dp"
+            app:boxStrokeWidthFocused="0dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputNomorTelpAgen"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/editext_custom"
+                android:inputType="number"
+                android:padding="15sp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:id="@+id/label_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/layout_input_nomortelp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:text="Masukan password anda" />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/layout_input_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/label_password"
+            android:layout_marginBottom="20dp"
+            app:boxStrokeWidth="0dp"
+            app:boxStrokeWidthFocused="0dp"
+            app:hintEnabled="false"
+            app:passwordToggleEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputPasswordAgen"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/editext_custom"
+                android:inputType="textPassword"
+                android:padding="15sp" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnLoginAgen"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@id/layout_input_password"
+            android:background="@drawable/btn_custom"
+            android:text="Masuk" />
+
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_below="@id/btnLoginAgen"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/ic_btpn_syariah" />
+    </RelativeLayout>
+</layout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable-v24/ic_search.xml" value="0.211" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/bg_card.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/btn_custom.xml" value="0.1635" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/circle_border.xml" value="0.142" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/ed_custom.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/editext_custom.xml" value="0.1635" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/grad.xml" value="0.142" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/ic_cart_shopping.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/ic_katalog.xml" value="0.154" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/ic_search.xml" value="0.211" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/ic_settings.xml" value="0.142" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/ic_transaksi.xml" value="0.127" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/search_box.xml" value="0.1945" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/drawable/top_background.xml" value="0.1855" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/activity_bayar_produk.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/activity_bayar_transaksi.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/activity_dashboard_supplier.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/activity_detail_product.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/activity_login_supplier.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/akun_fragment.xml" value="0.1824561403508772" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/app_bar_main.xml" value="0.264" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/drawer_header.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/home_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/layout_category.xml" value="0.10429447852760736" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/layout_feature_product.xml" value="0.4" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/layout_rec_produk.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/layout_rekomendasi_produk.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/list_rekomendasi_produk.xml" value="0.264" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/list_transaksi_agen.xml" value="0.1" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/ly_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/nav_header_main.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/toolbar.xml" value="0.20437956204379562" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/layout/transaksi_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/menu/bottom_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/menu/navigation_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BTPNSSHIFTED/AndroidStudioProjects/WarungTepatFinalProject/app/src/main/res/xml/network_security_config.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
